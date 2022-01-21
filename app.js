@@ -45,9 +45,9 @@ const ItemCtrl = (function(){
 //Data Structure
     const data = {
         items: [
-            /*  {id: 0, name: 'Steak Dinner', calories: 1200},
+              {id: 0, name: 'Steak Dinner', calories: 1200},
               {id: 1, name: 'Cake', calories: 900},
-              {id: 2, name: 'Eggs', calories: 300}*/
+              {id: 2, name: 'Eggs', calories: 300}
         ],
         total: 0
     }
